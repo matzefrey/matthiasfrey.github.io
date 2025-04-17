@@ -1,0 +1,16 @@
+---
+title: "Matthias Frey"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: bsky
+      text: Bluesky
+      href: https://bsky.app/profile/matzefrey.bsky.social 
+    - icon: github
+      text: Github
+      href: https://github.com/matzefrey 
+
+---
+
+About this blog
